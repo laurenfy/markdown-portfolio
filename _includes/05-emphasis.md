@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### My skills
+**Languages**
+* HTML
+* CSS
+* PHP
+* JavaScript
+* jQuery
+* Java
+* SQL
+**Frameworks**
+* Bootstrap
+* Zurb Foundation
