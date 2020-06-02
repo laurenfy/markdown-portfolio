@@ -1,1 +1,40 @@
-Replace this with a list of your favorite things.
+Favourite 40 tv shows to recommend (unordered)
+- The Office
+- Community
+- Parks and rec
+- Ricky and Morty
+- It's always sunny in Philadelphia
+- Unbreakable Kimmy Schmidt
+- American Horror Story
+- Santa Clarita Diet
+- The Umbrella Academy
+- Bojack Horseman
+- Russian Doll
+- F is for family
+- Dead to me
+- Breaking Bad
+- Better call Saul
+- 13 reasons why
+- Peaky Blinders
+- The Good Place
+- Arrested Development
+- Atypical
+- Orphan Block
+- Mr Robot
+- The man in the high castle
+- Upload
+- iZombie
+- Chilling adventures of Sabrina
+- Good girls
+- Glow
+- Happy!
+- Black Mirror
+- Living with yourself
+- Sex education
+- Line of Duty
+- Afterlife
+- Mastet of none
+- Ozark
+- Hollywood
+- Stranger things
+- Kiling Eve 
