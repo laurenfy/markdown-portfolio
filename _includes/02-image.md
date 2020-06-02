@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![GIF of the office](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
